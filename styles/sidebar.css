@@ -1,0 +1,39 @@
+nav{
+    width: 72px;
+    position: fixed;
+    top: 56px;
+    bottom: 0;
+    left: 0;
+    background-color: white;
+    z-index: 200;
+}
+.sidebar-link{
+    width: 72px;
+    height: 74px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.sidebar-link:hover{
+    background-color: rgb(235, 235, 235);
+    cursor: pointer;
+}
+#home,#subs,#library{
+    width: 24px;
+    height: 24px;
+}
+#history{
+ width: 21px;
+}
+#shorts{
+    width: 20px;
+    height: 22px;
+}
+.link-name{
+    margin-top: 6px;
+    font-size: 10px;
+}
+img[src="../icons/home.svg"]{
+        padding-top: 8px;
+}

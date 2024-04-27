@@ -1,4 +1,4 @@
-<h1 align="center">Youtube clone</h1>
+<h1 align="center">Youtube UI clone</h1>
 
 This is a simple web page that mimics the appearance and functionality of YouTube using only HTML and CSS. It does not have any back-end or interactivity, but it shows how the YouTube interface looks like on different devices and screen sizes.
 
